@@ -13,3 +13,8 @@ This is a simulated data analyst project for practicing Git and GitHub workflow.
 1. Install dependencies:
    ```bash
    pip install -r requirements.txt
+
+## Future Improvements
+- Add monthly sales trend analysis
+- Create charts by region and category
+- Build a simple dashboard
