@@ -1,0 +1,7 @@
+date,product,category,region,quantity,unit_price
+2026-01-03,Notebook,Stationery,North,10,4.50
+2026-01-05,Pen,Stationery,East,25,1.20
+2026-01-07,Mouse,Electronics,West,5,18.00
+2026-02-02,Keyboard,Electronics,North,4,35.00
+2026-02-10,Notebook,Stationery,South,12,4.50
+2026-02-15,Mouse,Electronics,East,7,18.00
