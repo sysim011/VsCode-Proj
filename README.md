@@ -18,3 +18,5 @@ This is a simulated data analyst project for practicing Git and GitHub workflow.
 - Add monthly sales trend analysis
 - Create charts by region and category
 - Build a simple dashboard
+
+- This is a testing for new branch
